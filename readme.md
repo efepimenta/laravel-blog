@@ -6,7 +6,7 @@ Um blog para blogueiros blogarem
 
 lista todos os blogs
 
-## /blog/id
+## /post/id
 
 lista um blog do blog
 
